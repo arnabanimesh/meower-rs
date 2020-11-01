@@ -1,0 +1,11 @@
+.title,
+.button-primary,
+.loading {
+  text-align: center;
+}
+
+.mew-form,
+.loading {
+  width: 50%;
+  margin: 0 auto;
+}
